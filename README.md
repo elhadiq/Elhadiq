@@ -8,4 +8,4 @@
 **My linkedIn profile : https://www.linkedin.com/in/zelhadiq**
 <br/>
 ![its me](https://github.com/Elhadiq/Elhadiq/blob/main/Elhadiq/src/zouhair.jfif)
-![its me](https://github.com/Elhadiq/Elhadiq/blob/main/Elhadiq/m.jpg)
+![its me](https://github.com/Elhadiq/Elhadiq/blob/main/m.jpg)
