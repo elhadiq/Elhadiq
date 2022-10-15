@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Elhadiq Zouhair 
-## And I am glat to have you here
+## And I am glad to have you here
 
 **My blog : https://elhadiq.github.io** <br/>
 **My number is 0650300236** <br/>
